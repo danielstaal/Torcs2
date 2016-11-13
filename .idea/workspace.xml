@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27dde6f2-d1ac-4756-bdbe-ea289fff08fe" name="Default" comment="" />
+    <list default="true" id="27dde6f2-d1ac-4756-bdbe-ea289fff08fe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/torcs.properties.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examplecontroller/ExampleController/src" afterPath="$PROJECT_DIR$/examplecontroller/ExampleController/src" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ExampleController/DefaultDriver.class" afterPath="$PROJECT_DIR$/out/production/ExampleController/DefaultDriver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ExampleController/DefaultDriverAlgorithm.class" afterPath="$PROJECT_DIR$/out/production/ExampleController/DefaultDriverAlgorithm.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ExampleController/NeuralNetwork.class" afterPath="$PROJECT_DIR$/out/production/ExampleController/NeuralNetwork.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ExampleController/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/out/production/ExampleController/META-INF/MANIFEST.MF" />
+    </list>
     <ignored path="Torcs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,73 +29,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="DefaultDriverAlgorithm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NeuralNetwork.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DefaultDriver.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="73" column="54" selection-start-line="73" selection-start-column="54" selection-end-line="73" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DriversUtils.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="349" column="0" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aalborg.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TrainData/train_data/aalborg.csv">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TrainData/train_data/readme.txt">
+      <file leaf-file-name="DefaultDriverAlgorithm.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultRace.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java">
+      <file leaf-file-name="DefaultDriverGenome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverGenome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+            <state relative-caret-position="125">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -108,9 +74,11 @@
       <list>
         <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java" />
         <option value="$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/AbstractDriver.class" />
-        <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java" />
-        <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
         <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java" />
+        <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
+        <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java" />
+        <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/torcs.properties.txt" />
+        <option value="$PROJECT_DIR$/examplecontroller/ExampleController/src/torcs.properties" />
       </list>
     </option>
   </component>
@@ -153,8 +121,25 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
       <pane id="PackagesPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Torcs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExampleController" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Torcs" />
@@ -168,14 +153,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/examplecontroller/ExampleController/src" />
-    <property name="SearchEverywhereHistoryKey" value="alignto&#9;PSI&#9;JAVA://cicontest.algorithm.abstracts.DriversUtils#alignToTrackAxis" />
+    <property name="SearchEverywhereHistoryKey" value="torcs.&#9;FILE&#9;file://C:/Users/daniel/Documents/AImaster/CI/torcs/torcs-win/Torcs/examplecontroller/ExampleController/src/torcs.properties.txt&#10;alignto&#9;PSI&#9;JAVA://cicontest.algorithm.abstracts.DriversUtils#alignToTrackAxis" />
   </component>
   <component name="RunManager" selected="Application.DefaultDriverAlgorithm">
     <configuration default="false" name="DefaultDriverAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -467,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1478688577788</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="start&#10;">
+      <created>1479037266038</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1479037266038</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -476,13 +465,12 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -493,6 +481,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -524,237 +513,75 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverGenome.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/map/TrackMap.class" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/ExampleController.iml" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/META-INF/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/torcs.properties.txt" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/torcs/genome/IGenome.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/AbstractRace.class" />
+    <entry file="jar://$PROJECT_DIR$/TORCSLauncher.jar!/scr/MessageBasedSensorModel.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/scr/Controller.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/scr/SensorModel.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/scr/Action.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/AbstractDriver.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/map/TrackMap.class" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/torcs/controller/Driver.class" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java" />
+    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TODO.txt" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TrainData/train_data/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TrainData/train_data/aalborg.csv" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java" />
     <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverGenome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4525">
-          <caret line="181" column="73" selection-start-line="181" selection-start-column="72" selection-end-line="181" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/map/TrackMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/ExampleController.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/META-INF/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/torcs.properties.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/torcs/genome/IGenome.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/AbstractRace.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-909">
-          <caret line="160" column="22" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/TORCSLauncher.jar!/scr/MessageBasedSensorModel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/scr/Controller.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/scr/SensorModel.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/scr/Action.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/AbstractDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="62" column="64" selection-start-line="62" selection-start-column="64" selection-end-line="62" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/map/TrackMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/torcs/controller/Driver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverGenome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="51" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultRace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/cicontest.jar!/cicontest/algorithm/abstracts/DriversUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="349" column="0" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TODO.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TrainData/train_data/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="73" column="54" selection-start-line="73" selection-start-column="54" selection-end-line="73" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/TrainData/train_data/aalborg.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/NeuralNetwork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/torcs.properties.txt" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/torcs.properties" />
+    <entry file="file://$PROJECT_DIR$/examplecontroller/ExampleController/src/DefaultDriverAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
